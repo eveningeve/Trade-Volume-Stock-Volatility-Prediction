@@ -31,7 +31,8 @@ A Streamlit web app was developed to make the results interactive and user-frien
 * View past 7-day stock price trends
 * Explore daily trading volumeForecast trade volume and volatility
 * Interactive visualizations (line graphs) for model outputs
-*Unfortunately the app demo is currently unavailable as there are some issues with the backend of Yahoo Finance API*
+
+APP Demo 👉https://drive.google.com/file/d/1Bd29Vr-0yl6XGlJs7cH_m3q3R4XNkAxb/view
 
 ## 05 Results & Insights
 
